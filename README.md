@@ -7,3 +7,5 @@ Inspired by UI/UX from youtube
 - React
 - Tailwind CSS
 - TypeScript
+
+#### Livepage link : <a href="https://funtube-app.vercel.app">Link</a>
