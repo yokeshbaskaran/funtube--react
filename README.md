@@ -1,9 +1,8 @@
-# Funtube-app
+# ViewTube
 
-Inspired by UI/UX from youtube
+- This project is inspired UI/UX from YouTube.
 
 ## Tech Stack:
-
 - React
 - Tailwind CSS
 - TypeScript
