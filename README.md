@@ -7,4 +7,4 @@
 - Tailwind CSS
 - TypeScript
 
-#### Livepage link : <a href="https://funtube-app.vercel.app">Link</a>
+#### Livepage link : <a href="https://viewtube-app-alpha.vercel.app">Link</a>
